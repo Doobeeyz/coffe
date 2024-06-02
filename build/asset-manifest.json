@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "//doobeeyz.github.io/coffe/static/css/main.064fbed5.css",
-    "main.js": "//doobeeyz.github.io/coffe/static/js/main.b5a751e0.js",
+    "main.css": "//doobeeyz.github.io/coffe/static/css/main.62a36283.css",
+    "main.js": "//doobeeyz.github.io/coffe/static/js/main.d91a6576.js",
     "static/js/453.ed3810f9.chunk.js": "//doobeeyz.github.io/coffe/static/js/453.ed3810f9.chunk.js",
     "static/media/marochino1.jpg": "//doobeeyz.github.io/coffe/static/media/marochino1.bdee20f8c10aff4276d0.jpg",
     "static/media/capuchino1.jpg": "//doobeeyz.github.io/coffe/static/media/capuchino1.9ec0f267bccbba908c87.jpg",
@@ -11,22 +11,27 @@
     "static/media/marochino.png": "//doobeeyz.github.io/coffe/static/media/marochino.ce0e7b02d0180d149ee8.png",
     "static/media/capuchino.png": "//doobeeyz.github.io/coffe/static/media/capuchino.4252b582e8ec536a9645.png",
     "static/media/mocha.png": "//doobeeyz.github.io/coffe/static/media/mocha.5ba8458cf5a0f1cd974d.png",
+    "static/media/fondan.jpg": "//doobeeyz.github.io/coffe/static/media/fondan.822198d0b9e16d1cb1db.jpg",
     "static/media/macchiato.png": "//doobeeyz.github.io/coffe/static/media/macchiato.1c1c56e2734f931ff3dc.png",
     "static/media/correto.png": "//doobeeyz.github.io/coffe/static/media/correto.0270154245976b6cac4c.png",
     "static/media/chocolatemilk.png": "//doobeeyz.github.io/coffe/static/media/chocolatemilk.4300945b02923b85b550.png",
     "static/media/espresso1.jpg": "//doobeeyz.github.io/coffe/static/media/espresso1.6e660d2dbb0e3e4e7f0c.jpg",
     "static/media/correto1.jpg": "//doobeeyz.github.io/coffe/static/media/correto1.cefd18604d9af1b5809c.jpg",
     "static/media/espresso.png": "//doobeeyz.github.io/coffe/static/media/espresso.7b3b817556342564100a.png",
+    "static/media/barhat.jpeg": "//doobeeyz.github.io/coffe/static/media/barhat.9e3d6fb0f7328c0f270f.jpeg",
     "static/media/macchiato1.jpg": "//doobeeyz.github.io/coffe/static/media/macchiato1.8a7a940ba98c90d1cfc2.jpg",
     "static/media/logo.png": "//doobeeyz.github.io/coffe/static/media/logo.bfd80c222d06327374c4.png",
     "static/media/mocha1.jpg": "//doobeeyz.github.io/coffe/static/media/mocha1.06c147c31c5fca11dcdf.jpg",
+    "static/media/trayfl.jpeg": "//doobeeyz.github.io/coffe/static/media/trayfl.41dcdcf326e71926b9ed.jpeg",
+    "static/media/pannakota.jpeg": "//doobeeyz.github.io/coffe/static/media/pannakota.94415e8b99e75538d1a5.jpeg",
+    "static/media/up-arrow3.png": "//doobeeyz.github.io/coffe/static/media/up-arrow3.87755f5af3f8f1e7c2ca.png",
     "index.html": "//doobeeyz.github.io/coffe/index.html",
-    "main.064fbed5.css.map": "//doobeeyz.github.io/coffe/static/css/main.064fbed5.css.map",
-    "main.b5a751e0.js.map": "//doobeeyz.github.io/coffe/static/js/main.b5a751e0.js.map",
+    "main.62a36283.css.map": "//doobeeyz.github.io/coffe/static/css/main.62a36283.css.map",
+    "main.d91a6576.js.map": "//doobeeyz.github.io/coffe/static/js/main.d91a6576.js.map",
     "453.ed3810f9.chunk.js.map": "//doobeeyz.github.io/coffe/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.064fbed5.css",
-    "static/js/main.b5a751e0.js"
+    "static/css/main.62a36283.css",
+    "static/js/main.d91a6576.js"
   ]
 }
