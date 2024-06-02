@@ -1,15 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.064fbed5.css",
-    "main.js": "/static/js/main.c80822e8.js",
-    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/index.html",
-    "main.064fbed5.css.map": "/static/css/main.064fbed5.css.map",
-    "main.c80822e8.js.map": "/static/js/main.c80822e8.js.map",
-    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "//doobeeyz.github.io/coffe/static/css/main.064fbed5.css",
+    "main.js": "//doobeeyz.github.io/coffe/static/js/main.b5a751e0.js",
+    "static/js/453.ed3810f9.chunk.js": "//doobeeyz.github.io/coffe/static/js/453.ed3810f9.chunk.js",
+    "static/media/marochino1.jpg": "//doobeeyz.github.io/coffe/static/media/marochino1.bdee20f8c10aff4276d0.jpg",
+    "static/media/capuchino1.jpg": "//doobeeyz.github.io/coffe/static/media/capuchino1.9ec0f267bccbba908c87.jpg",
+    "static/media/chocolatemilk1.jpg": "//doobeeyz.github.io/coffe/static/media/chocolatemilk1.1c380d3ac2ecb1cc50e1.jpg",
+    "static/media/raph1.png": "//doobeeyz.github.io/coffe/static/media/raph1.b67024e6d2cccf912e32.png",
+    "static/media/raph.png": "//doobeeyz.github.io/coffe/static/media/raph.036027d874431851f098.png",
+    "static/media/marochino.png": "//doobeeyz.github.io/coffe/static/media/marochino.ce0e7b02d0180d149ee8.png",
+    "static/media/capuchino.png": "//doobeeyz.github.io/coffe/static/media/capuchino.4252b582e8ec536a9645.png",
+    "static/media/mocha.png": "//doobeeyz.github.io/coffe/static/media/mocha.5ba8458cf5a0f1cd974d.png",
+    "static/media/macchiato.png": "//doobeeyz.github.io/coffe/static/media/macchiato.1c1c56e2734f931ff3dc.png",
+    "static/media/correto.png": "//doobeeyz.github.io/coffe/static/media/correto.0270154245976b6cac4c.png",
+    "static/media/chocolatemilk.png": "//doobeeyz.github.io/coffe/static/media/chocolatemilk.4300945b02923b85b550.png",
+    "static/media/espresso1.jpg": "//doobeeyz.github.io/coffe/static/media/espresso1.6e660d2dbb0e3e4e7f0c.jpg",
+    "static/media/correto1.jpg": "//doobeeyz.github.io/coffe/static/media/correto1.cefd18604d9af1b5809c.jpg",
+    "static/media/espresso.png": "//doobeeyz.github.io/coffe/static/media/espresso.7b3b817556342564100a.png",
+    "static/media/macchiato1.jpg": "//doobeeyz.github.io/coffe/static/media/macchiato1.8a7a940ba98c90d1cfc2.jpg",
+    "static/media/logo.png": "//doobeeyz.github.io/coffe/static/media/logo.bfd80c222d06327374c4.png",
+    "static/media/mocha1.jpg": "//doobeeyz.github.io/coffe/static/media/mocha1.06c147c31c5fca11dcdf.jpg",
+    "index.html": "//doobeeyz.github.io/coffe/index.html",
+    "main.064fbed5.css.map": "//doobeeyz.github.io/coffe/static/css/main.064fbed5.css.map",
+    "main.b5a751e0.js.map": "//doobeeyz.github.io/coffe/static/js/main.b5a751e0.js.map",
+    "453.ed3810f9.chunk.js.map": "//doobeeyz.github.io/coffe/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.064fbed5.css",
-    "static/js/main.c80822e8.js"
+    "static/js/main.b5a751e0.js"
   ]
 }
