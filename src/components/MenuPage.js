@@ -7,18 +7,18 @@ const MenuPage = () => {
 
 
   const items = [
-    { id: 1, name: 'Item 1', price: '5', description: 'йцу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
-    { id: 2, name: 'Item 2', price: '5', description: 'йцу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
-    { id: 3, name: 'Item 3', price: '5', description: 'йцу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
-    { id: 4, name: 'Item 4', price: '5', description: 'йцу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
-    { id: 5, name: 'Item 5', price: '5', description: 'йцу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
-    { id: 6, name: 'Item 6', price: '5', description: 'йцу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
-    { id: 7, name: 'Item 7', price: '5', description: 'йцу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
-    { id: 8, name: 'Item 8', price: '5', description: 'йцу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
-    { id: 9, name: 'Item 9', price: '5', description: 'йцу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
-    { id: 10, name: 'Item 10', price: '5', description: 'йцу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
-    { id: 11, name: 'Item 11', price: '5', description: 'йцу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
-    { id: 12, name: 'Item 12', price: '5', description: 'цйу', img:  'https://coffeepedia.ru/wp-content/uploads/2013/01/amer.jpg'},
+    { id: 1, name: 'Capuchino', price: '790', description: 'йцу', img:  'capuchino1.jpg'},
+    { id: 2, name: 'Chocolate Milk', price: '820', description: 'йцу', img:  'chocolatemilk1.jpg'},
+    { id: 3, name: 'Correto', price: '1230', description: 'йцу', img:  'correto1.jpg'},
+    { id: 4, name: 'Espresso', price: '550', description: 'йцу', img:  'espresso1.jpg'},
+    { id: 5, name: 'Macchiato', price: '750', description: 'йцу', img:  'macchiato1.jpg'},
+    { id: 6, name: 'Marochono', price: '860', description: 'йцу', img:  'marochino1.jpg'},
+    { id: 7, name: 'Mocha', price: '690', description: 'йцу', img:  'mocha1.jpg'},
+    { id: 8, name: 'Raph', price: '830', description: 'йцу', img:  'raph1.png'},
+    { id: 9, name: 'Item 9', price: '5', description: 'йцу', img:  ''},
+    { id: 10, name: 'Item 10', price: '5', description: 'йцу', img:  ''},
+    { id: 11, name: 'Item 11', price: '5', description: 'йцу', img:  ''},
+    { id: 12, name: 'Item 12', price: '5', description: 'цйу', img:  ''},
   ];
 
   return (
