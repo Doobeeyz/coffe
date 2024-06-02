@@ -1,0 +1,63 @@
+.menu-page {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+#hero {
+    flex: 1;
+    overflow: hidden;
+}
+
+.scrollable-content {
+    border-radius: 25px;
+    overflow-y: auto;
+    height: calc(100vh - 80px - 80px)
+} 
+
+.scrollable-content::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
+
+.card {
+    margin-bottom: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    background-color: #4b250b;
+    color: #4b250b;
+    text-decoration: none;
+}
+
+.card-title {
+    margin-bottom: 0.75rem;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+.card-link {
+    text-decoration: none;
+}
+
+.card-img-top {
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.profile-img {
+    width: auto;
+    height: 400px;
+}
+
+.title {
+    color: #fff;
+    position: sticky;
+    padding-top: 20px;
+    align-items: center;
+    text-align: center;
+    height: 80px;
+    width: 100%;
+}
