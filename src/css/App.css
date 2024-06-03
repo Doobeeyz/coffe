@@ -71,7 +71,7 @@ body::before {
   left: 50%;
   transform: translateX(-50%);
   margin-top: 10px;
-  height: 40px;
+  height: 25px;
 }
 
 .overlay_text{

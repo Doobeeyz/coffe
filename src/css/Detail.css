@@ -1,7 +1,6 @@
 .detail-page {
     display: flex;
     justify-content: center;
-    align-items: center;
     height: 100vh;
   }
   
@@ -13,6 +12,8 @@
     backdrop-filter: blur(40px);
     box-shadow:inset 0px 0px 20px 0px rgba(255, 255, 255, 0.3);
     min-height: 450px;
+    max-height: 600px;
+    margin-top: 40px;
 }
 
 .image-container {
