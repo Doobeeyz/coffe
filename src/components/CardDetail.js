@@ -46,7 +46,7 @@ return (
         </div>
         <div className="info-container">
             <h2>{item.name}</h2>
-            <p>Price: {item.price}</p>
+            <p>Цена: {item.price} ₸</p>
             <p>{item.description}</p>     
         </div>
     </div>
