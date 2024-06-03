@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route, Routes, useParams } from 'react-router-
 import HomePage from './components/HomePage';
 import AboutPage from './components/AboutPage';
 import MenuPage from './components/MenuPage';
-import Card from './components/Card';
 import CardDetail from './components/CardDetail';
 import ContactPage from './components/ContactPage';
 import NavBar from './components/NavBar';
