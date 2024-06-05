@@ -9,7 +9,9 @@ return (
     <div>
       <div id="hero">
         <div id="hero_text">
-          <h1 className='mt-4'>Мокко<br/> Наяда</h1>
+          <h1 className='mt-4'>Мокко Наяда</h1>
+          <p>Добро пожаловать в вашу уютную гавань среди городской суеты!</p>
+          <Link to={`/menu`}  className="button mt-1">Меню</Link>
         </div>
           <div className="overlay">
             <img src={upArrow} alt='up-arow' className='up-arrow'/><br/>
