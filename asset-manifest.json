@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//doobeeyz.github.io/coffe/static/css/main.50bd8414.css",
-    "main.js": "//doobeeyz.github.io/coffe/static/js/main.05be94af.js",
+    "main.js": "//doobeeyz.github.io/coffe/static/js/main.29b81ff7.js",
     "static/js/453.ed3810f9.chunk.js": "//doobeeyz.github.io/coffe/static/js/453.ed3810f9.chunk.js",
     "static/media/marochino1.jpg": "//doobeeyz.github.io/coffe/static/media/marochino1.bdee20f8c10aff4276d0.jpg",
     "static/media/capuchino1.jpg": "//doobeeyz.github.io/coffe/static/media/capuchino1.9ec0f267bccbba908c87.jpg",
@@ -24,14 +24,13 @@
     "static/media/mocha1.jpg": "//doobeeyz.github.io/coffe/static/media/mocha1.06c147c31c5fca11dcdf.jpg",
     "static/media/trayfl.jpeg": "//doobeeyz.github.io/coffe/static/media/trayfl.41dcdcf326e71926b9ed.jpeg",
     "static/media/pannakota.jpeg": "//doobeeyz.github.io/coffe/static/media/pannakota.94415e8b99e75538d1a5.jpeg",
-    "static/media/up-arrow3.png": "//doobeeyz.github.io/coffe/static/media/up-arrow3.87755f5af3f8f1e7c2ca.png",
     "index.html": "//doobeeyz.github.io/coffe/index.html",
     "main.50bd8414.css.map": "//doobeeyz.github.io/coffe/static/css/main.50bd8414.css.map",
-    "main.05be94af.js.map": "//doobeeyz.github.io/coffe/static/js/main.05be94af.js.map",
+    "main.29b81ff7.js.map": "//doobeeyz.github.io/coffe/static/js/main.29b81ff7.js.map",
     "453.ed3810f9.chunk.js.map": "//doobeeyz.github.io/coffe/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50bd8414.css",
-    "static/js/main.05be94af.js"
+    "static/js/main.29b81ff7.js"
   ]
 }
